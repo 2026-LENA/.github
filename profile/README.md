@@ -1,1 +1,1 @@
-![LexAI poster](lexai.png)
+# Low-Energy Neural Architectures (LENA)
