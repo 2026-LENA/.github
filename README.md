@@ -1,1 +1,1 @@
-Low-Energy Neural Architectures (LENA)
+# Lazy Low-Energy Neural Architectures (LENA)
