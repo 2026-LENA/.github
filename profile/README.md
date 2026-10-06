@@ -7,3 +7,4 @@
 ## Use cases
 - Next Music Note Prediction (regression): Predict the next note based on the preceding musical sequence.
 - MNIST image classification (classification)
+- Games (?)
