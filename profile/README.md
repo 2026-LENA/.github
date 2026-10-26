@@ -1,4 +1,5 @@
 # Lazy Low-Energy Neural Architectures (LENA)
+- Lazy computation
 - Connectome brain architecture
 - Spiking-based neural networks
 - Reinforcement learning instead of back-propagation for training
